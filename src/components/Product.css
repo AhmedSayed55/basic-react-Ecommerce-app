@@ -1,0 +1,12 @@
+.card{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.card-img-top{
+    height: 250px;
+    width: 250px;
+}
+
