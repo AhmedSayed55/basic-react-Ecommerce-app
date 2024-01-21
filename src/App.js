@@ -25,7 +25,7 @@ function App() {
       </Route>
       <Route path='product/:productID' element={<ProductDetails />}></Route>
     </Routes>
-<Outlet></Outlet>
+
 
     </>
   );
